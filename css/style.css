@@ -1,0 +1,41 @@
+body {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color: coral;
+}
+
+img {
+    width: 100%;
+    margin-top: 20px;
+    border-radius: 10px;
+}
+
+.ms_font {
+    color: coral;
+    
+}
+
+.ms_header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    background-color: lemonchiffon;
+    border-radius: 10px;
+}
+
+.ms_text {
+    text-align: center;
+}
+
+.btn {
+    color: orangered;
+    text-decoration: none;
+    border: none;
+    background-color: black;
+    position: absolute;
+    left: 42%;
+    padding: 10px;
+    border-radius: 10px;
+}
